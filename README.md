@@ -1,4 +1,4 @@
-# Setup MongoDB Express (mongo-express) on Kubernetes (Minikube) with Ingress
+# Setup MongoDB Express on Kubernetes (Minikube) with Ingress
 
 ![Mongo Express](images/mongo-express.PNG)
 
