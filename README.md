@@ -1,4 +1,4 @@
-# Setup MongoDB Express on Kubernetes (Minikube) with Ingress
+# Managing MongoDB and Mongo-Express in a Kubernetes Cluster through Deployment and Orchestration
 
 ![Mongo Express](images/mongo-express.PNG)
 
