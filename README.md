@@ -1,4 +1,4 @@
-# Managing MongoDB and Mongo-Express in a Kubernetes Cluster through Deployment and Orchestration
+# Kubernetes Cluster Deployment and Orchestration of MongoDB and Mongo-Express
 
 ![Mongo Express](images/mongo-express.PNG)
 
